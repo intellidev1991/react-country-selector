@@ -1,0 +1,16 @@
+node_modules
+dist
+docs
+coverage
+tsconfig.json
+.eslintcache
+*.css
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico
+*.scss
+*.less
+*.sass
